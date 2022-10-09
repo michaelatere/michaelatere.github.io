@@ -62,3 +62,7 @@
     margin: 0 auto;
     text-align: left;
   }
+  #my-pic {
+    border-radius: 50%;
+    border:2px solid orangered;
+  }
